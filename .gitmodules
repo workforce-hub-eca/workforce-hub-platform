@@ -1,0 +1,9 @@
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/workforce-hub-eca/workforce-hub-api-gateway.git
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/workforce-hub-eca/workforce-hub-config-server.git
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/workforce-hub-eca/workforce-hub-eureka-server.git
